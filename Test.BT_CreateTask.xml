@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AutoFramework02" verbose="1">
+    <test thread-count="5" name="ChromeTest">
+        <parameter name="browserType" value="chrome" />
+        <parameter name="appURL" value="https://rise.fairsketch.com" />
+        <classes >
+<!--            <class name="BT_Create3Task.TestCases.TC01_CreateTask" />-->
+            <class name="BT_Create3Task.TestCases.TC02_CreateTask_Excel" />
+        </classes>
+    </test>
+</suite>

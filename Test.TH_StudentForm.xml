@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AutoFramework02" verbose="1">
+    <test thread-count="5" name="ChromeTest">
+        <parameter name="browserType" value="chrome" />
+        <parameter name="appURL" value="https://demoqa.com/" />
+        <classes >
+            <class name="TH_StudentForm.TestCases.TC01_Load" />
+<!--            <class name="TH_StudentForm.TestCases.TC02_Load_Excel" />-->
+        </classes>
+    </test>
+</suite>

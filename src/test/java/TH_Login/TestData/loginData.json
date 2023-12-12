@@ -1,0 +1,73 @@
+{
+  "Test_Login": [
+    {
+      "username": "client@demo.com",
+      "password": "riseDemo"
+    },
+    {
+      "username": "admin@demo.com",
+      "password": "riseDemo"
+    }
+  ],
+  "Test_LoadPage": [
+    {
+      "fullName": "Nguyễn Văn Anh",
+      "email": "nvanh@gmail.com",
+      "address": "Cau Giay, Ha Noi",
+      "permanentAddress": "Cau Giay, Ha Noi"
+    },
+    {
+      "fullName": "Hoàng Tuấn Đạt",
+      "email": "htdat@gmail.com",
+      "address": "Tu Son, Bac Ninh",
+      "permanentAddress": "Tu Son, Bac Ninh"
+    },
+    {
+      "fullName": "Lưu Vân Anh",
+      "email": "lvanh@gmail.com",
+      "address": "Vinh, Nghe An",
+      "permanentAddress": "Vinh, Nghe An"
+    },
+    {
+      "fullName": "Trần Quang",
+      "email": "tquang@gmail.com",
+      "address": "Tan Binh, Ho Chi Minh",
+      "permanentAddress": "Tan Binh, Ho Chi Minh"
+    },
+    {
+      "fullName": "Đỗ Huy Hoàng",
+      "email": "dhhoang@gmail.com",
+      "address": "Dat Lat, Lam Dong",
+      "permanentAddress": "Dat Lat, Lam Dong"
+    }
+  ],
+  "Test_CreateTask": [
+    {
+      "title": "Adam",
+      "project": "Virtual Reality Experience Design"
+    },
+    {
+      "title": "Amon",
+      "project": "Virtual Reality Experience Design"
+    },
+    {
+      "title": "Klein",
+      "project": "Virtual Reality Experience Design"
+    }
+  ],
+  "Test_CreateEvent": [
+    {
+      "title": "Audrey",
+      "start_date": "12-11-2023"
+    },
+    {
+      "title": "Herman",
+      "start_date": "12-11-2023"
+    },
+    {
+      "title": "Leonard",
+      "start_date": "12-11-2023"
+    }
+  ],
+  "Test_case_02": []
+}
